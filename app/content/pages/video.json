@@ -1,4 +1,5 @@
 {
   "title": "video",
-  "content": "<section id=\"hero\">\n    <div class=\"hero-container aos-init aos-animate\" data-aos=\"fade-up\" data-aos-delay=\"150\">\n      <h1>The blockchain cloud gaming platform</h1>\n      <h2>Don't own a gaming PC? Oblaku lets you play favorite games on\n<div style=\"color: rgb(250 74 25);\">Android, Mac, and Windows.</div></h2>\n      <div class=\"d-flex\">\n        <a href=\"#about\" class=\"btn-get-started scrollto\">Get Started</a>\n        <a href=\"https://www.ji-cloud.cn/video/aaa.mp4\" class=\"glightbox btn-watch-video\"><i class=\"bi bi-play-circle\"></i><span>Watch Video</span></a>\n      </div>\n    </div>\n  </section>"
+  "content": " <h1>The blockchain cloud gaming platform</h1>\n      <h2>Don't own a gaming PC? Oblaku lets you play favorite games on\n<div style=\"color: rgb(250 74 25);\">Android, Mac, and Windows.</div></h2>\n\n![](/images/uploads/81464027_471079400471586_3271125514441457664_n.jpg)",
+  "featuredImage": ""
 }
