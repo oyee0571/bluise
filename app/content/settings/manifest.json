@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
-  "backgroundColor": "#ffffff",
+  "name": "Oblaku",
+  "shortName": "Oblaku",
+  "description": "Default",
+  "themeColor": "#f5f4fc",
+  "backgroundColor": "#050311",
   "lang": "en"
 }
